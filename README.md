@@ -1,3 +1,14 @@
+# Description 
+### URL: https://filter-filter.herokuapp.com/
+
+An ecommerce app with category and collection filter
+
+### Tools
+- ReactJs
+- TailwindCss
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
